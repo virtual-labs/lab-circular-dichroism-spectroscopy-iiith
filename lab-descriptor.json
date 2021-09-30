@@ -1,93 +1,102 @@
 {
-    "broadArea": {
-        "name": "Chemical Sciences",
-        "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
-    },
-    "lab": "Circular Dichronism Spectroscopy",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IIITH",
-    "baseUrl": "cds-iiith.vlabs.ac.in",
-    "introduction": "Circular dichroism (CD) spectroscopy is a spectroscopic technique where the CD of molecules is measured over a range of wavelengths. CD spectroscopy is used extensively to study chiral molecules of all types and sizes, but it is in the study of large biological molecules where it finds its most important applications. A primary use is in analyzing the secondary structure or conformation of macromolecules, particularly proteins, and because secondary structure is sensitive to its environment, e.g. temperature or pH, circular dichroism can be used to observe how secondary structure changes with environmental conditions or on interaction with other molecules. Structural, kinetic and thermodynamic information about macromolecules can be derived from circular dichroism spectroscopy.</br></br>Circular dichroism spectroscopy is particularly useful for:</br></br>Determining whether a protein is folded, and if so characterizing its secondary structure, tertiary structure, and the structural family to which it belongs</br>Comparing the structures of a protein obtained from different sources (e.g. species or expression systems) or comparing structures for different mutants of the same protein</br>Demonstrating comparability of solution conformation and/or thermal stability after changes in manufacturing processes or formulation</br>Studying the conformational stability of a protein under stress -- thermal stability, pH stability, and stability to denaturants and how this stability is altered by buffer composition or addition of stabilizers and excipients</br>CD is excellent for finding solvent conditions that increase the melting temperature and/or the reversibility of thermal unfolding, conditions which generally enhance shelf life</br>Determining whether protein-protein or protein-ligand interactions alter the conformation of protein</br>If there are any conformational changes, this will result in a spectrum which will differ from the sum of the individual components. Small conformational changes have been seen, for example, upon formation of several different receptor/ligand complexes",
-    "experiments": [
-            {
+  "broadArea": {
+    "name": "Chemical Sciences",
+    "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
+  },
+  "lab": "Circular Dichronism Spectroscopy",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "cds-iiith.vlabs.ac.in",
+  "introduction": "Circular dichroism (CD) spectroscopy is a spectroscopic technique where the CD of molecules is measured over a range of wavelengths. CD spectroscopy is used extensively to study chiral molecules of all types and sizes, but it is in the study of large biological molecules where it finds its most important applications. A primary use is in analyzing the secondary structure or conformation of macromolecules, particularly proteins, and because secondary structure is sensitive to its environment, e.g. temperature or pH, circular dichroism can be used to observe how secondary structure changes with environmental conditions or on interaction with other molecules. Structural, kinetic and thermodynamic information about macromolecules can be derived from circular dichroism spectroscopy.</br></br>Circular dichroism spectroscopy is particularly useful for:</br></br>Determining whether a protein is folded, and if so characterizing its secondary structure, tertiary structure, and the structural family to which it belongs</br>Comparing the structures of a protein obtained from different sources (e.g. species or expression systems) or comparing structures for different mutants of the same protein</br>Demonstrating comparability of solution conformation and/or thermal stability after changes in manufacturing processes or formulation</br>Studying the conformational stability of a protein under stress -- thermal stability, pH stability, and stability to denaturants and how this stability is altered by buffer composition or addition of stabilizers and excipients</br>CD is excellent for finding solvent conditions that increase the melting temperature and/or the reversibility of thermal unfolding, conditions which generally enhance shelf life</br>Determining whether protein-protein or protein-ligand interactions alter the conformation of protein</br>If there are any conformational changes, this will result in a spectrum which will differ from the sum of the individual components. Small conformational changes have been seen, for example, upon formation of several different receptor/ligand complexes",
+  "experiments": [
+    {
       "name": "To determine the specific rotation of a sugar using a polarimeter",
       "short-name": "rotation-of-sugar",
       "repo": "https://github.com/virtual-labs/exp-rotation-of-sugar-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            },
-            {
+    },
+    {
       "name": "To understand the effect of chiral substances on plane polarized light as a function of wavelength",
       "short-name": "effect-chiral-substances",
       "repo": "https://github.com/virtual-labs/exp-effect-chiral-substances-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            },
-            {
+    },
+    {
       "name": "To study the Optical Rotatory Dispersion (ORD) of some chiral substances",
       "short-name": "optical-rotatory-dispersion",
       "repo": "https://github.com/virtual-labs/exp-optical-rotatory-dispersion-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            },
-            {
+    },
+    {
       "name": "To study the Circular Dichroism of some substances with chiral chromophores",
       "short-name": "substances-with-chiral-chromophores",
       "repo": "https://github.com/virtual-labs/exp-substances-with-chiral-chromophores-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            },
-            {
+    },
+    {
       "name": "To Study the operational details of a CD spectrometer",
       "short-name": "cd-spectrometer",
       "repo": "https://github.com/virtual-labs/exp-cd-spectrometer-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            },
-            {
+    },
+    {
       "name": "To Study the effect of Secondary Structure elements on CD spectrum of proteins",
       "short-name": "cd-spectrum-of-proteins",
       "repo": "https://github.com/virtual-labs/exp-cd-spectrum-of-proteins-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            },
-            {
+    },
+    {
       "name": "To deconvolute the CD spectrum of a given protein solution and to classify it in terms of its secondary structure elements",
       "short-name": "secondary-structure-elements",
       "repo": "https://github.com/virtual-labs/exp-secondary-structure-elements-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            },
-            {
+    },
+    {
       "name": "To study the thermal stability of proteins",
       "short-name": "thermal-stability-of-proteins",
       "repo": "https://github.com/virtual-labs/exp-thermal-stability-of-proteins-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            },
-            {
+    },
+    {
       "name": "To study the effect of chemical denaturants on protein stability",
       "short-name": "chemical-denaturants",
       "repo": "https://github.com/virtual-labs/exp-chemical-denaturants-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            },
-            {
+    },
+    {
       "name": "To study the comparison between protein unfolding and protein aggregation in the presence of chemical denaturing agents",
       "short-name": "chemical-denaturing-agents",
       "repo": "https://github.com/virtual-labs/exp-chemical-denaturing-agents-iiith",
       "tag": "v1.0.0",
       "deploy": true
-            }
-        ],
-    "targetAudience": {
-        "UG": ["B.Tech, B.Sc., Postgraduates (M.Sc, M.Pharm) as part of courses Biotechnology, Biochemistry, Chemistry"],
-        "PG": ["M.S., diploma, and Ph.D level as part of courses Biotechnology, Biochemical"]
-    },
-    "objective": "To study chiral molecules of all types and sizes, but it is in the study of large biological molecules where it finds its most important applications.",
-    "courseAlignment": {
-        "description": "",
-        "universities": ["This virtual lab on Circular Dichroism Spectroscopy Lab is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Circular Dichroism Spectroscopy Lab just by going through the designed experiments."]
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "B.Tech, B.Sc., Postgraduates (M.Sc, M.Pharm) as part of courses Biotechnology, Biochemistry, Chemistry"
+    ],
+    "PG": [
+      "M.S., diploma, and Ph.D level as part of courses Biotechnology, Biochemical"
+    ]
+  },
+  "objective": "To study chiral molecules of all types and sizes, but it is in the study of large biological molecules where it finds its most important applications.",
+  "courseAlignment": {
+    "description": "",
+    "universities": [
+      "This virtual lab on Circular Dichroism Spectroscopy Lab is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Circular Dichroism Spectroscopy Lab just by going through the designed experiments."
+    ]
+  },
+  "exp_name": "To study the comparison between protein unfolding and protein aggregation in the presence of chemical denaturing agents",
+  "exp_short_name": "chemical-denaturing-agents",
+  "version": "v0.1.0"
 }
