@@ -35,7 +35,7 @@
       "name": "To study the Circular Dichroism of some substances with chiral chromophores",
       "short-name": "substances-with-chiral-chromophores",
       "repo": "https://github.com/virtual-labs/exp-substances-with-chiral-chromophores-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -98,5 +98,5 @@
   },
   "exp_name": "To study the comparison between protein unfolding and protein aggregation in the presence of chemical denaturing agents",
   "exp_short_name": "chemical-denaturing-agents",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }
