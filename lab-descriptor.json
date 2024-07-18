@@ -58,28 +58,28 @@
       "name": "To deconvolute the CD spectrum of a given protein solution and to classify it in terms of its secondary structure elements",
       "short-name": "secondary-structure-elements",
       "repo": "https://github.com/virtual-labs/exp-secondary-structure-elements-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To study the thermal stability of proteins",
       "short-name": "thermal-stability-of-proteins",
       "repo": "https://github.com/virtual-labs/exp-thermal-stability-of-proteins-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To study the effect of chemical denaturants on protein stability",
       "short-name": "chemical-denaturants",
       "repo": "https://github.com/virtual-labs/exp-chemical-denaturants-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To study the comparison between protein unfolding and protein aggregation in the presence of chemical denaturing agents",
       "short-name": "chemical-denaturing-agents",
       "repo": "https://github.com/virtual-labs/exp-chemical-denaturing-agents-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
