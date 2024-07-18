@@ -37,7 +37,7 @@
       "name": "To study the Circular Dichroism of some substances with chiral chromophores",
       "short-name": "substances-with-chiral-chromophores",
       "repo": "https://github.com/virtual-labs/exp-substances-with-chiral-chromophores-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
