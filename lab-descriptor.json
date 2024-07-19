@@ -30,7 +30,7 @@
       "name": "To study the Optical Rotatory Dispersion (ORD) of some chiral substances",
       "short-name": "optical-rotatory-dispersion",
       "repo": "https://github.com/virtual-labs/exp-optical-rotatory-dispersion-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
