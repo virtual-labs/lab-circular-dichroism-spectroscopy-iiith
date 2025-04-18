@@ -30,14 +30,14 @@
       "name": "To study the Optical Rotatory Dispersion (ORD) of some chiral substances",
       "short-name": "optical-rotatory-dispersion",
       "repo": "https://github.com/virtual-labs/exp-optical-rotatory-dispersion-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "To study the Circular Dichroism of some substances with chiral chromophores",
       "short-name": "substances-with-chiral-chromophores",
       "repo": "https://github.com/virtual-labs/exp-substances-with-chiral-chromophores-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
@@ -65,7 +65,7 @@
       "name": "To study the thermal stability of proteins",
       "short-name": "thermal-stability-of-proteins",
       "repo": "https://github.com/virtual-labs/exp-thermal-stability-of-proteins-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
